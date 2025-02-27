@@ -18,7 +18,7 @@ const questions = [
     },
     {
         question: "4.What is the capital of Goa?",
-        options: ["Panjim", "Gandhinagar", "Mumbai", "Surat"],
+        options: ["Panaji", "Gandhinagar", "Mumbai", "Surat"],
         ans: 0
     },
     {
