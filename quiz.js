@@ -2,32 +2,32 @@
 // questions => question,options,ans
 const questions = [
     {
-        question: "What is the capital of Gujarat?",
+        question: "1.What is the capital of Gujarat?",
         options: ["Ahmedabad", "Gandhinagar", "Mumbai", "Surat"],
         ans: 1
     },
     {
-        question: "What is the capital of Maharashtra?",
+        question: "2.What is the capital of Maharashtra?",
         options: ["Ahmedabad", "Gandhinagar", "Mumbai", "Surat"],
         ans: 2
     },
     {
-        question: "What is the capital of Odisha?",
+        question: "3.What is the capital of Odisha?",
         options: ["Ahmedabad", "Bhubaneswar", "Mumbai", "Surat"],
         ans: 1
     },
     {
-        question: "What is the capital of Goa?",
+        question: "4.What is the capital of Goa?",
         options: ["Panjim", "Gandhinagar", "Mumbai", "Surat"],
         ans: 0
     },
     {
-        question: "Which city is known as the Diamond City?",
+        question: "5.Which city is known as the Diamond City?",
         options: ["Ahmedabad", "Gandhinagar", "Mumbai", "Surat"],
         ans: 3
     },
     {
-        question: "Select the city outside Gujarat.",
+        question: "6.Select the city outside Gujarat.",
         options: ["Ahmedabad", "Gandhinagar", "Mumbai", "Surat"],
         ans: 2
     }
